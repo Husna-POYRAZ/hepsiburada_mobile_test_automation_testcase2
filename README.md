@@ -1,7 +1,5 @@
-# hepsiburada_mobile_test_automation_testcase2
-Mobile Automation POM with Appium in Java
+# Mobile Automation POM with Appium in Java
 
-# Selenium-Automation-Testing
 [![CI - Java](https://github.com/SeleniumHQ/selenium/actions/workflows/ci-java.yml/badge.svg)](https://github.com/SeleniumHQ/selenium/actions/workflows/ci-java.yml)
 
 <a href="https://selenium.dev"><img src="https://selenium.dev/images/selenium_logo_square_green.png" width="180" alt="Selenium"/></a>
